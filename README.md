@@ -13,11 +13,14 @@ Apresenta uma breve descrição de um repositório existente no GitHub.
 #### Dependência:
 * Yarn
 
-#### Rodar projeto:
-* Os camandos tem que ser digitado no prompt (ex: cmd) dentro da pasta (raiz) onde esta os arquivos
+#### Modo de uso:
+* Abra um terminal ( cmd/propt de comando )
+* Clone o repositório ( git clone git@github.com:RobMota/HTML-CSS.git ) em algum local de preferência
+* Acesse a pasta ( cd HTML-CSS )
+* E digite os comandos abaixo:
 
-* npm || yarn install
-* npm || yarn start
+* npm / yarn install
+* npm / yarn start
 
 #### Autor do projeto original:
 * [Diego Fernandes](https://github.com/diego3g)
