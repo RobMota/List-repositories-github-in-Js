@@ -20,4 +20,4 @@ Apresenta uma breve descrição de um repositório existente no GitHub.
 * npm || yarn start
 
 #### Autor do projeto original:
-* [Diego Fernandes] (https://github.com/diego3g)
+* [Diego Fernandes](https://github.com/diego3g)
