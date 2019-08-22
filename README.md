@@ -2,7 +2,7 @@
 Apresenta uma breve descrição de um repositório existente no GitHub.
 
 ### Utilidade:
-* Aplicação usada como aprendizado.
+* Aplicação usada como aprendizado do ES6+.
 
 #### Material:
 * ES6+
