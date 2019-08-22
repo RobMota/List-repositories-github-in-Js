@@ -14,7 +14,7 @@ Apresenta uma breve descrição de um repositório existente no GitHub.
 * Yarn
 
 #### Rodar projeto:
-* Os camando tem que ser digitados no prompt dentro da pasta onde esta os arquivos
+* Os camandos tem que ser digitado no prompt (ex: cmd) dentro da pasta (raiz) onde esta os arquivos
 
 * npm || yarn install
 * npm || yarn start
