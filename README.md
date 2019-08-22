@@ -1,4 +1,4 @@
-# Repositorios do GitHub
+# Repositórios do GitHub
 Apresenta uma breve descrição de um repositório existente no GitHub.
 
 ### Utilidade:
