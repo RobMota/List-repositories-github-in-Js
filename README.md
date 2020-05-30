@@ -1,4 +1,4 @@
-# Projeto: Repositórios do GitHub
+# Projeto: Repositórios do GitHub em JavaScript(ES)
 Apresenta uma breve descrição de um repositório existente no GitHub.
 
 ### Utilidade:
